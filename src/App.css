@@ -1,0 +1,21 @@
+.container{
+  display: flex;
+  justify-content: left;
+  padding-top: 4vh;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.sidebar{
+  width: 25vw;
+  height: 80vh;
+}
+
+.main{
+  width:75vw;
+  height: 80vh;
+
+}
+
+
+
